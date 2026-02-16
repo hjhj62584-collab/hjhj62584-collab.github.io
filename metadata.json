@@ -1,4 +1,5 @@
 {
   "name": "Rust Helper Pro",
-  "description": "The ultimate companion for Rust players. Features a smart raid calculator with optimal explosive mixing, farming gene guide with timers, and a comprehensive glossary of game terms."
+  "description": "The ultimate companion for Rust players. Features a smart raid calculator with optimal explosive mixing, farming gene guide with timers, and a comprehensive glossary of game terms.",
+  "requestFramePermissions": []
 }
